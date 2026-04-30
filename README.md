@@ -7,7 +7,6 @@
 ![Type](https://img.shields.io/badge/Type-Sales%20Analysis-4a7c2f?style=for-the-badge)
 ![Charts](https://img.shields.io/badge/Charts-3%20Visualizations-6abf47?style=for-the-badge)
 ![What--If](https://img.shields.io/badge/Feature-What--If%20Analysis-yellowgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </div>
 
@@ -176,6 +175,6 @@ To every aspiring analyst out there — stay curious, stay consistent, and never
 
 ⭐ *If you found this project helpful or inspiring, consider giving it a star!* ⭐
 
-**Made with 💚 and a lot of pivot tables by RENSEE GAJIPARA**
+**Made with 💚**
 
 </div>
