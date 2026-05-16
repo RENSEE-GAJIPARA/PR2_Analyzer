@@ -13,7 +13,7 @@
 
 ## 🖥️ Dashboard Preview
 
-![Sales Analysis Dashboard](Dashboard_Sales.png)
+![Sales Analysis Dashboard](Dashboard sales.png)
 
 > *Interactive Excel dashboard showing KPIs, Sales by Category, Monthly Revenue trend, and Regional Sales breakdown.*
 
