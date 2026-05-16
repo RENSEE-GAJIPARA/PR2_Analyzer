@@ -156,9 +156,6 @@ Interactive dashboard with:
 3. Navigate to the **Dashboard** sheet for the full summary view
 4. Explore individual sheets — **Dataset → Analysis → Descriptive Stats → Pivot Table**
 5. To refresh pivot tables: Right-click any pivot → **Refresh**
-
----
-
 <br>
 
 ---
