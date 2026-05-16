@@ -13,7 +13,8 @@
 
 ## 🖥️ Dashboard Preview
 
-![Sales Analysis Dashboard](Dashboard sales.png)
+<img width="1537" height="877" alt="Dashboard sales" src="https://github.com/user-attachments/assets/2f4db991-46d3-4a78-b117-6718bfc51841" />
+
 
 > *Interactive Excel dashboard showing KPIs, Sales by Category, Monthly Revenue trend, and Regional Sales breakdown.*
 
